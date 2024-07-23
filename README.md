@@ -16,14 +16,13 @@ This project focuses on developing a computer vision model to predict customer a
 
 ### Objectives
 
-- Train a model that predicts customer age based on photos (faces) for use in alcohol sales
-- Measure accuracy (MAE) and determine the usability of the model in real-life scenarios
+- Train a model that predicts customer age based on photos (faces) for use in alcohol sales.
+- Measure accuracy (MAE) and determine the usability of the model in real-life scenarios.
 
 
 ### Methodology
 - Data Import and Exploratory Data Analysis: Data is imported and checked. EDA is performed to show baseline statistics of the data such as average age and distribution.
 - Model Selection and Training: A regression model is trained with various transformations like rescaling, flipping, shifting, and rotation. A validation set is used to measure accuracy in training. A pre-trained ResNet50 as the base model, which is optimized with Adam.
-- Conclusions and Recommendations: text
 
 ### Conclusions
 
@@ -34,7 +33,7 @@ Computer Vision and the Use Case
 Other Use Cases for the Model
 
 - The model can be used to inform marketing decisions - using broaded age groups - young, middle age, elderly for example, to identify shopping patterns and adjusting marketing strategies accordingly
-- Broad age and shopping data could be used to test sales of products across specific age groups
+- Broad age and shopping data could be used to test sales of products across specific age groups.
 
 
 
