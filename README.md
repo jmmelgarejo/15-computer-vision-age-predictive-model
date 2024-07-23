@@ -2,7 +2,7 @@
 
 For this computer vision project, we will be working with a straightforward dataset to predict customer age, which is particularly useful for ensuring legal compliance in alcohol sales. The primary goal of this project is to establish a baseline model that can be used as a foundation for more advanced computer vision applications in the future. Given the constraints of current computational resources, we are initially utilizing CPU processing for model development and training, but the project is designed to be scalable, allowing for significant performance improvements with GPU processing or other advanced hardware. It's important to note that the model training and experimentation were conducted virtually, leveraging cloud-based environments to facilitate collaboration and resource sharing among team members.
 
-Link: 
+Link: https://github.com/jmmelgarejo/15-computer-vision-age-predictive-model/blob/main/15-computer-vision-age-predictive-model.ipynb
 
 ## Table of Contents
 - Introduction
